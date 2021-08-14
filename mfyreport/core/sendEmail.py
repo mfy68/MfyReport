@@ -1,9 +1,9 @@
 """
 ============================
-# ProjectName:   MFYReport
+# ProjectName:   MfyReport
+# FileName:     sendEmail.py
 # Author:      MingFeiyang
-# Datetime:    2021/8/6 14:52
-# Description：
+# Datetime:    2021/8/9 14:45
 ============================
 """
 import os

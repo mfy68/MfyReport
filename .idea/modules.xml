@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../mfyreport/.idea/mfyreport.iml" filepath="$PROJECT_DIR$/../mfyreport/.idea/mfyreport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mfyreport.iml" filepath="$PROJECT_DIR$/.idea/mfyreport.iml" />
     </modules>
   </component>
 </project>
